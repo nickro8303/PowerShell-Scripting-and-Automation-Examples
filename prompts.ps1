@@ -1,4 +1,4 @@
-#Nicholas Rochetti #001683684
+
 <#
 .Synopsis
    This script prompts the user to complete the process.
